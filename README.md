@@ -17,7 +17,9 @@ The model achieved an accuracy of 99.98%, precision of 99.97%, and recall score 
 
 
 ### Deployment
-Inorder to deploy the fraud detection model, I have used streamlit.
+In order to deploy the fraud detection model, I have used streamlit.
+
+Here is the link to the web application: https://chandrima1-credit-card-fraud-detection-model-app-rjtw3p.streamlit.app/
 
 Put all the V1-V28 features along with the amount(Normalized value) and predict whether it is a fraudulent or a legitimate transactions.
 
